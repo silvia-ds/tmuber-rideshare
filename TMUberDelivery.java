@@ -1,13 +1,5 @@
-/***
- * Name: Silvia Das
- * Student ID: 501239223
- ***/
-
-/*
- * 
- * This class simulates a food delivery service for a simple Uber app
- * 
- * A TMUberDelivery is-a TMUberService with some extra functionality
+/* 
+ * This class simulates a food delivery service for a simple Uber app 
  */
 public class TMUberDelivery extends TMUberService
 {
