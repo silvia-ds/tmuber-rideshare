@@ -1,8 +1,3 @@
-/***
- * Name: Silvia Das
- * Student ID: 501239223
- ***/
-
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collections;
