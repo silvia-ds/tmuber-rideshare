@@ -1,8 +1,3 @@
-/***
- * Name: Silvia Das
- * Student ID: 501239223
- ***/
-
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -25,7 +20,6 @@ import java.util.Scanner;
 // Use the first digit of the residence number (i.e. 5 of the number 51) to determine street.
 // For distance calculation you need to identify the the specific city block - 
 // in this example it is city block (7, 5) (7th avenue and 5th street)
-//
 // Distance in city blocks between (3, 4) and (7, 5) is then == 5 city blocks
 
 public class CityMap
