@@ -1,12 +1,5 @@
-/***
- * Name: Silvia Das
- * Student ID: 501239223
- ***/
+// Class that simulates a user of a simple Uber app
 
-/*
- * 
- * Class that simulates a user of a simple Uber app
- */
 public class User
 {
   private String accountId;  
