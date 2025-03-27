@@ -1,8 +1,3 @@
-/***
- * Name: Silvia Das
- * Student ID: 501239223
- ***/
-
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collections;
@@ -10,11 +5,8 @@ import java.util.Scanner;
 import java.util.StringTokenizer;
 import java.util.Map;
 
-//import java.io.FileNotFoundException;
-
 // Simulation of a Simple Command-line based Uber App 
-
-// This system supports "ride sharing" service and a delivery service
+// This system supports ride sharing service and a delivery service
 
 public class TMUberUI
 {
