@@ -1,13 +1,6 @@
-/***
- * Name: Silvia Das
- * Student ID: 501239223
- ***/
-
 /*
- * 
- * General class that simulates a ride or a delivery in a simple Uber app
- * 
- * This class is made abstract since we never create an object.
+ * General class that simulates a ride or a delivery in a simple Uber app 
+ * This class is made abstract since we never create an object
  */
 abstract public class TMUberService implements Comparable<TMUberService>
 {
