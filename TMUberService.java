@@ -86,7 +86,6 @@ abstract public class TMUberService implements Comparable<TMUberService>
   }
   
   // Two service requests are equal if they have the same type and same user
-  // Make sure type is checked first!
   public boolean equals(Object other)
   {
     TMUberService otherService = (TMUberService) other;
